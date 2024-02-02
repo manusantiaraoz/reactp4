@@ -2,8 +2,8 @@
 
 const HolaInicial = ({saludo}) => {
     return (
-        <article >
-            hello {saludo}
+        <article className="display-3">
+            hello {saludo}  
         </article>
     );
 };
