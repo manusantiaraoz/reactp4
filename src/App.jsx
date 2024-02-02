@@ -4,7 +4,7 @@ import HolaInicial from "./component/holainicial"
 
 function App() {
   
-  const saludo = "My friend!";
+  const saludo = "My friend !";
 
   return (
     <>
