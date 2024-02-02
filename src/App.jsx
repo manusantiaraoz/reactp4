@@ -1,5 +1,6 @@
-import "bootstrap/dist/css/bootstrap.min.css"
-import HolaInicial from "./component/holainicial"
+import "bootstrap/dist/css/bootstrap.min.css";
+import HolaInicial from "./component/holainicial";
+
 
 
 function App() {
@@ -8,7 +9,8 @@ function App() {
 
   return (
     <>
-      <HolaInicial saludo={saludo}/>
+    <HolaInicial saludo={saludo}></HolaInicial>
+      
     </>
   )
 }
