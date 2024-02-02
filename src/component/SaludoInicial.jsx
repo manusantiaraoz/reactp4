@@ -1,6 +1,6 @@
+import React from 'react';
 
-
-const HolaInicial = ({saludo}) => {
+const SaludoInicial = ({saludo}) => {
     return (
         <article className="display-3">
             hello {saludo}  
@@ -8,4 +8,4 @@ const HolaInicial = ({saludo}) => {
     );
 };
 
-export default HolaInicial;
+export default SaludoInicial;
