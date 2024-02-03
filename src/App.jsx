@@ -9,6 +9,7 @@ function App() {
 
   return (
     <>
+    
     <SaludoInicial saludo={saludo}></SaludoInicial>
       
     </>
