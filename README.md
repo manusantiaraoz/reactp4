@@ -1,5 +1,7 @@
-Practico react punto 3
-Modificar el programa anterior agregando al componente un state con la clave msj: “(from changed state)”, además agregar un botón al presionar este botón (onClick), el state de la clave msj se debe mostrar por pantalla de la siguiente manera: 
+Lista de tareas - Dificultad:  🟢
+
+Crear una aplicación web que  muestre una lista de tareas, al ingresar una tarea en el input y presionar enter, esta tarea se debe mostrar en una lista
+
 
 Alumno
 Santi Araoz Daniel Emmanuel
