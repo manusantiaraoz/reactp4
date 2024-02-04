@@ -17,7 +17,7 @@ function App() {
       <h1 className="text-center display-1">Bienvenido</h1>
       <h5 className="text-center display-6">agrega tus tareas :D</h5>
     <FormularioTarea/>
-  
+   
     </Container>
     <Footer/>
     
